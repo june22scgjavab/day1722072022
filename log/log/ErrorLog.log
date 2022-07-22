@@ -1,0 +1,14 @@
+21-Jul-2022 11:06:30 INFO - Jon logged in successfully
+22-Jul-2022 09:05:14 INFO - Jon logged in successfully
+22-Jul-2022 09:05:29 ERROR - Service.INVALID_CREDENTIALS
+java.lang.Exception: Service.INVALID_CREDENTIALS
+	at com.infy.UserAuthentication.loginUser(UserAuthentication.java:27) [bin/:?]
+	at com.infy.userinterface.Tester.main(Tester.java:9) [bin/:?]
+22-Jul-2022 09:07:10 ERROR - Service.INVALID_CREDENTIALS
+java.lang.Exception: Service.INVALID_CREDENTIALS
+	at com.infy.UserAuthentication.loginUser(UserAuthentication.java:27) [bin/:?]
+	at com.infy.userinterface.Tester.main(Tester.java:9) [bin/:?]
+22-Jul-2022 09:10:48 ERROR - Service.INVALID_CREDENTIALS
+java.lang.Exception: Service.INVALID_CREDENTIALS
+	at com.infy.UserAuthentication.loginUser(UserAuthentication.java:27) [bin/:?]
+	at com.infy.userinterface.Tester.main(Tester.java:9) [bin/:?]
